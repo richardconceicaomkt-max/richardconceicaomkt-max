@@ -1,16 +1,22 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://raw.githubusercontent.com/richardconceicaomkt-max/richardconceicaomkt-max/main/banner.svg" alt="Richard Syles | Tráfego Pago & Estratégia Digital" width="100%">
+</p>
 
-<!--
-**richardconceicaomkt-max/richardconceicaomkt-max** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Richard Syles | Tráfego Pago & Estratégia Digital
 
-Here are some ideas to get you started:
+Gestor de tráfego pago e estrategista digital da **Genius Level Up**. Ajudo negócios a captar clientes com anúncios, sites que convertem e mensuração de ponta a ponta.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## O que eu faço
+
+- **Tráfego pago:** Meta Ads, Google Ads, TikTok Ads e ChatGPT Ads, da estrutura da conta à otimização.
+- **Sites e landing pages:** páginas feitas para converter.
+- **Mensuração:** pixel, eventos e relatórios de resultado.
+- **Conteúdo e branding:** social media, roteiros e identidade visual.
+
+## Ferramentas
+
+Meta Ads · Google Ads · TikTok Ads · ChatGPT Ads · Meta Pixel · Google Analytics · HTML · React · Next.js
+
+## Contato
+
+Conheça a Genius Level Up: [adsgeniusmkt.com](https://adsgeniusmkt.com/)
